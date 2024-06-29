@@ -1,2 +1,2 @@
 testing git reset
-line 2
+
