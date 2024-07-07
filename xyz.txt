@@ -1,5 +1,4 @@
 <<<<<<< HEAD
 this is new test file for git
+<<<<<<< HEAD
 secong change on the file
-=======
->>>>>>> parent of dfc04f9 (Update xyz.txt)
