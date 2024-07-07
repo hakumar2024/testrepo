@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 this is new test file for git
 <<<<<<< HEAD
 secong change on the file
